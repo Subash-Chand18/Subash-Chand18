@@ -175,24 +175,33 @@ I am currently working on uploading quality projects. Stay tuned!🚀
 
 <br><br>
 
-<div align="center">
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:6px;">
 
-  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" />
+  <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" />
+  <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" />
+
 
 </div>
 
