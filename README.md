@@ -1,11 +1,11 @@
 <!-- ===================== HEADER ===================== -->
-<h1 align="center" style="font-size:44px; font-family:Segoe UI, sans-serif; letter-spacing:1px;">
+<h1 align="center" style="font-size:48px; font-family:Segoe UI, sans-serif; letter-spacing:1px;">
 Hi 👋, I'm Subash Chand
 </h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Subash-Chand18/Subash-Chand18/main/profile.jpeg"
-  width="220"
+  width="400"
   style="border-radius:50%; border: 5px solid #00F7FF; box-shadow: 0px 0px 35px #00F7FF;" />
 </p>
 
@@ -77,7 +77,6 @@ For collaboration, projects, or opportunities 😊
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
-
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 </p>
@@ -196,14 +195,6 @@ I am currently working on uploading quality projects. Stay tuned!🚀
   <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
   <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
   <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
 
 </div>
+
