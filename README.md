@@ -10,7 +10,7 @@ Hi 👋, I'm Subash Chand
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=28&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Aspiring+Software+Engineer;Web+%7C+App+%7C+Game+Developer;Lifelong+Learner+🚀;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=28&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Aspiring+Software+Developer;Web+%7C+App+%7C+Game+Developer;Lifelong+Learner+🚀;Future+Software+Developer" />
 </p>
 
 ---
