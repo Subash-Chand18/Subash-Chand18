@@ -1,206 +1,122 @@
 <!-- ===================== HEADER ===================== -->
-<h1 align="center" style="font-size:48px; font-family:Segoe UI, sans-serif; letter-spacing:1px;">
-Hi 👋, I'm Subash Chand
-</h1>
+<div align="center">
+  <h1>Hi 👋, I'm Subash Chand</h1>
+  <p><b>Full Stack Web Developer | Aspiring Software Developer | Lifelong Learner</b></p>
+  
+  <img src="https://raw.githubusercontent.com/Subash-Chand18/Subash-Chand18/main/profile.jpeg" 
+       width="180" 
+       style="border-radius: 50%; border: 4px solid #00F7FF;" 
+       alt="Subash Chand Profile" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Subash-Chand18/Subash-Chand18/main/profile.jpeg"
-  width="400"
-  style="border-radius:50%; border: 5px solid #00F7FF; box-shadow: 0px 0px 35px #00F7FF;" />
-</p>
+  <br><br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=28&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Aspiring+Software+Developer;Web+%7C+App+%7C+Game+Developer;Lifelong+Learner+🚀;Future+Software+Developer" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Laravel+%26+React+Developer;Problem+Solver+%F0%9F%92%BB;Continuous+Learner" alt="Typing SVG" />
+</div>
 
----
+<hr />
 
-<!-- ===================== CONTACT ===================== -->
-## 📧 Contact Me
-
-<p style="font-size:16px;">
-📩 Email 👉 <a href="mailto:subashchan31@gmail.com" style="color:#00BFFF; font-weight:bold;">subashchan31@gmail.com</a><br>
-For collaboration, projects, or opportunities 😊
-</p>
-
----
-
-<!-- ===================== ABOUT ===================== -->
+<!-- ===================== ABOUT ME ===================== -->
 ## 🚀 About Me
 
-<ul style="font-size:15px; line-height:1.8;">
-<li>🔭 <b>I’m currently working on:</b> Tourism Guide And Travel & Modern Web Apps</li>
-<li>🌱 <b>I’m currently learning:</b> Laravel, React & Backend Systems</li>
-<li>👯 <b>I’m looking to collaborate on:</b> Open Source & Web Projects</li>
-<li>🤔 <b>I’m looking for help with:</b> DevOps & Advanced Backend</li>
-<li>💬 <b>Ask me about:</b> PHP, JavaScript, React, MySQL, Laravel</li>
-<li>📫 <b>How to reach me:</b> <a href="mailto:subashchan31@gmail.com" style="color:#00BFFF;">Email Me</a></li>
-<li>😄 <b>Pronouns:</b> He/Him</li>
-<li>⚡ <b>Fun fact:</b> I enjoy building creative websites 🚀</li>
-</ul>
+- 🔭 **Current Focus:** Building Travel & Tourism platforms and modern web applications.
+- 🌱 **Learning Path:** Advancing my skills in Laravel, React, and Backend Architecture.
+- 👯 **Collaboration:** Open to collaborating on Open Source and Web Development projects.
+- 🤔 **Focus Areas:** Seeking guidance in DevOps practices and advanced Backend systems.
+- 💬 **Ask Me About:** PHP, JavaScript, React, MySQL, and Laravel.
+- 📫 **Reach Me:** [subashchan31@gmail.com](mailto:subashchan31@gmail.com)
+- 😄 **Pronouns:** He/Him
 
----
-
-<!-- ===================== SOCIAL ===================== -->
-## 🔗 Social Links
-
-<p align="center">
-  <a href="https://instagram.com/subas_hchand18">
-    <img src="https://img.shields.io/badge/Instagram-Subash%20Chand-pink?logo=instagram&logoColor=white"/>
-  </a>
-
-  <a href="https://facebook.com/share/1BQJq1qpvk/">
-    <img src="https://img.shields.io/badge/Facebook-Subash%20Chand-blue?logo=facebook&logoColor=white"/>
-  </a>
-
-  <a href="https://linkedin.com/in/subash-chand-4a6635301">
-    <img src="https://img.shields.io/badge/LinkedIn-Subash%20Chand-blue?logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
+<hr />
 
 <!-- ===================== TECH STACK ===================== -->
 ## 💻 Tech Stack
 
-<p align="center">
+### 🌐 Frontend & Core Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b)
-![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+### ⚙️ Backend & Database
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 
-</p>
+### 🛠️ Languages & Dev Tools
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+<hr />
 
----
+<!-- ===================== DYNAMIC STATS (THE CORE UPDATE) ===================== -->
+## 📊 Dynamic GitHub Analytics
 
-<!-- ===================== SKILL BAR ===================== -->
-## 🧠 Skill Progress
-<pre style="
-font-family:Consolas, monospace;
-font-size:26px;
-line-height:1.15;
-color:#00F7FF;
-margin:0;
-letter-spacing:0.5px;
-">
+These metrics automatically update based on your GitHub commits, pull requests, and coding activity.
 
-<strong>HTML            </strong> ██████████ 95%
-<strong>CSS             </strong> █████████░ 90%
-<strong>JavaScript      </strong> ████████░░ 80%
-<strong>PHP             </strong> █████████░ 88%
-<strong>Laravel         </strong> ████████░░ 75%
-<strong>React           </strong> ███████░░░ 70%
-<strong>MySQL           </strong> ████████░░ 80%
-<strong>C / C++         </strong> ████████░░ 78%
-<strong>C#              </strong> ███████░░░ 72%
-<strong>Problem Solving </strong> █████████░ 85%
+<table border="0" align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <!-- GitHub General Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Subash-Chand18&show_icons=true&theme=tokyonight&count_private=true&hide_title=false" alt="GitHub Stats" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <!-- Top Languages used in repositories -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subash-Chand18&layout=compact&theme=tokyonight" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <!-- Commit Streak Tracker -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subash-Chand18&theme=tokyonight" alt="GitHub Streak" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <!-- WakaTime Stats: Weekly coding time (See note below to set up) -->
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Subash-Chand18&theme=tokyonight&layout=compact" alt="Coding Time Stats" width="100%" />
+    </td>
+  </tr>
+</table>
 
-</pre>
+*(Note: The coding time stats card requires a free [WakaTime](https://wakatime.com/) account linked to your code editor with public stats enabled. If you do not use WakaTime, you can safely remove that specific image tag).*
 
----
+<hr />
 
-<!-- ===================== STATS ===================== -->
-## 📊 GitHub Stats
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+## 🐍 Contribution Activity Graph
 
-<p align="center">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</div>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subash-Chand18&theme=tokyonight" />
+<hr />
 
-  <br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Subash-Chand18&theme=tokyonight" />
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<!-- ===================== PROJECTS ===================== -->
+<!-- ===================== FEATURED PROJECTS ===================== -->
 ## 📌 Featured Projects
-🚧 *🚧 Coming Soon...*  
-I am currently working on uploading quality projects. Stay tuned!🚀
+🚧 *Projects are currently being prepared for deployment. Codebases will be linked here shortly.*
 
----
+<hr />
 
-## ⚡ Fun Zone
-
-😅 Sometimes my code works on the first try... and I get suspicious.
-
-<p align="center">
-<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30"/>
-</p>
-
----
-
-## 🎯 Current Focus
-
-✔️ Strengthening programming fundamentals  
-✔️ Practicing problem solving and DSA basics  
-✔️ Building real-world projects  
-✔️ Exploring development fields  
-✔️ Becoming consistent every day  
-✔️ Preparing for internships and industry experience  
-
-
----
-
-<!-- ===================== FOOTER ===================== -->
-## 💬 Motto
-
-<p align="center" style="font-size:18px;">
-<b>“Build. Learn. Improve. Repeat.” 🚀</b>
-</p>
-
----
-⭐️ *Thanks for visiting my profile! Let's grow together!* 🚀
-
-<h3 align="center">Always excited to learn new things!</h3>
-
-<p align="center">
-  <img align="right" alt="coding" width="420"
-  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-</p>
-
-
+<!-- ===================== SOCIALS & VISITOR COUNTER ===================== -->
+## 🔗 Connect With Me
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Subash-Chand18&label=Profile%20views&color=0e75b6&style=flat" />
+  <a href="https://linkedin.com/in/subash-chand-4a6635301" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/subas_hchand18" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://facebook.com/share/1BQJq1qpvk/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
-
-<br><br>
-<h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/subash-chand-4a6635301" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-
-<a href="https://www.instagram.com/subas_hchand18" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-</a>
-
-<a href="https://www.facebook.com/share/1BQJq1qpvk/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
-</a>
+  <img src="https://komarev.com/ghpvc/?username=Subash-Chand18&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+<div align="center">
+  <p><i>"Build. Learn. Improve. Repeat."</i> 🚀</p>
+</div>
