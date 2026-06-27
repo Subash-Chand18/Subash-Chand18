@@ -1,7 +1,7 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <p align="center">
   <a href="https://github.com/Subash-Chand18">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=120&lines=SUBASH+CHAND;Full+Stack+Web+Developer;Laravel+%26+React+Developer;Building+Modern+Web+Apps" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=120&lines=SUBASH+CHAND;Full+Stack+Developer;Laravel+%26+React+Architect;Building+Modern+Web+Apps" alt="Typing Banner" />
   </a>
 </p>
 
@@ -12,15 +12,15 @@
       <td align="center" valign="middle" width="220">
         <img src="https://raw.githubusercontent.com/Subash-Chand18/Subash-Chand18/main/profile.jpeg" 
              width="160" 
-             style="border-radius: 50%; border: 3px solid #00F7FF; box-shadow: 0px 4px 20px rgba(0, 247, 255, 0.4);" 
+             style="border-radius: 50%; border: 3px solid #00F7FF; box-shadow: 0px 4px 25px rgba(0, 247, 255, 0.45);" 
              alt="Subash Chand Profile Picture" />
       </td>
       <td align="left" valign="middle">
         <p style="font-size: 18px; font-weight: bold; color: #FF00FF; margin: 0;">
           Hi there! 👋 I'm a developer focusing on scalable web architectures.
         </p>
-        <p style="font-size: 15px; color: #8B949E; margin-top: 5px; max-width: 450px;">
-          Designing high-performance backend systems with elegant, responsive frontend components. Currently building travel and tourism ecosystems.
+        <p style="font-size: 15px; color: #8B949E; margin-top: 5px; max-width: 480px;">
+          Designing high-performance backend systems with modern components. Currently building travel, tourism, and real-time transaction web applications.
         </p>
       </td>
     </tr>
@@ -29,34 +29,28 @@
 
 <br>
 
-<!-- ===================== ABOUT ME ===================== -->
-## 🚀 About Me
+<!-- ===================== INTERACTIVE TABS ===================== -->
+## 📂 Interactive Profile Dashboard
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔍 Current Focus</h3>
-      <ul>
-        <li>🔭 <b>Working on:</b> Travel & Tourism platforms and modern web applications.</li>
-        <li>🌱 <b>Learning:</b> Advancing backend architecture and scaling ecosystems.</li>
-        <li>👯 <b>Collaboration:</b> Open source initiatives and robust web systems.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛠️ Skills & Preferences</h3>
-      <ul>
-        <li>💬 <b>Core Tech:</b> PHP, JavaScript, React, MySQL, and Laravel.</li>
-        <li>⚡ <b>Philosophy:</b> Optimizing database queries & clean component architecture.</li>
-        <li>😄 <b>Pronouns:</b> He/Him</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+Click on the tabs below to explore my development workspace, structured tech stack, and current project roadmaps:
 
-<hr />
+<details open>
+<summary><b>🚀 01. Currently Working On & Project Roadmaps</b></summary>
+<br>
+<blockquote>
+  <strong>Tourism Guide & Travel Web Application</strong><br>
+  A high-performance portal designed to streamline booking operations, dynamic routing, and interactive map interfaces.
+</blockquote>
 
-<!-- ===================== TECH STACK ===================== -->
-## 💻 Tech Stack
+- 🛠️ **Architecture:** Built on Laravel (Robust backend API) and React (Highly responsive SPA frontend).
+- 🔗 **Current Stage:** Implementing advanced user state management, localized caching, and API routing.
+- 🌱 **Learning Goal:** Moving deeper into performance optimization, system design, and database query tuning.
+<br>
+</details>
+
+<details>
+<summary><b>💻 02. Structured Tech Stack & Proficiencies</b></summary>
+<br>
 
 <table border="0" width="100%">
   <tr>
@@ -83,13 +77,26 @@
     </td>
   </tr>
 </table>
+<br>
+</details>
+
+<details>
+<summary><b>🔧 03. Developer Environment & Setup</b></summary>
+<br>
+
+- 💻 **Operating System:** Windows Subsystem for Linux (WSL2) / Ubuntu.
+- 📝 **Primary IDE:** Visual Studio Code configured with Prettier, ESLint, and PHP Intelephense.
+- 🐳 **Local Stack:** Docker / Laravel Sail for uniform, localized environment management.
+- 🎨 **Terminal Theme:** TokyoNight styling with Oh-My-Zsh integration.
+<br>
+</details>
 
 <hr />
 
-<!-- ===================== DYNAMIC STATS ===================== -->
-## 📊 GitHub Analytics
+<!-- ===================== REAL-TIME METRICS ===================== -->
+## 📊 Live System Diagnostics
 
-These dynamic metrics auto-update based on your activity, ensuring visitors see your latest commits, languages, and code statistics.
+The charts below query your GitHub commits, pull requests, and repositories in real-time, providing immediate visual tracking of your code patterns.
 
 <table border="0" align="center" width="100%">
   <tr>
@@ -104,11 +111,11 @@ These dynamic metrics auto-update based on your activity, ensuring visitors see 
   </tr>
   <tr>
     <td align="center" width="50%">
-      <!-- Commit Streak Stats (Using the updated, working endpoint) -->
+      <!-- Commit Streak Stats -->
       <img src="https://streak-stats.demolab.com/?user=Subash-Chand18&theme=tokyonight" alt="GitHub Streak Stats" width="100%" />
     </td>
     <td align="center" width="50%">
-      <!-- GitHub Activity Graph: Tracks code changes and commits over the last 31 days -->
+      <!-- GitHub Activity Graph (Replaces the broken snake graphic with an instant 31-day activity visualizer) -->
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subash-Chand18&theme=react-dark" alt="GitHub Activity Graph" width="100%" />
     </td>
   </tr>
@@ -116,10 +123,10 @@ These dynamic metrics auto-update based on your activity, ensuring visitors see 
 
 <hr />
 
-<!-- ===================== SKILL PROGRESS ===================== -->
+<!-- ===================== PROGRESS METRIC ===================== -->
 ## 🧠 Programming Proficiency
 
-A visual breakdown of code experience levels based on current project architectures:
+A detailed breakdown of coding experience levels across different project environments:
 
 <pre style="font-family: Consolas, monospace; font-size: 14px; line-height: 1.5; color: #00F7FF; background: #0D1117; padding: 15px; border-radius: 8px; border: 1px solid #30363D;">
 <strong>HTML/CSS        </strong> ████████████████████████████████░░░░ 90%
@@ -129,16 +136,6 @@ A visual breakdown of code experience levels based on current project architectu
 <strong>SQL & Databases </strong> ██████████████████████████░░░░░░░░░░ 80%
 <strong>C / C++ / C#    </strong> ████████████████████████░░░░░░░░░░░░ 75%
 </pre>
-
-<hr />
-
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
-## 🐍 Code Contribution Journey
-
-<p align="center">
-  <!-- Uses the isolated 'output' branch of your repository containing the generated snake asset -->
-  <img src="https://raw.githubusercontent.com/Subash-Chand18/Subash-Chand18/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
 
 <hr />
 
@@ -168,50 +165,3 @@ A visual breakdown of code experience levels based on current project architectu
 <div align="center">
   <p><b>“Build. Learn. Improve. Repeat.” 🚀</b></p>
 </div>
-
-<!-- 
-========================================================================
-🔧 INSTRUCTIONS FOR THE CONTRIBUTION SNAKE ACTION
-========================================================================
-To activate the animated contribution snake above without altering your main branch assets:
-
-1. In this repository, create a directory path: `.github/workflows/`
-2. Create a file in that path named: `snake.yml`
-3. Paste the code block below into that file and commit it. 
-   This workflow will run every 12 hours, outputting the snake graphic to an isolated 'output' branch.
-
---- COPY THE WORKFLOW CONFIGURATION BELOW THIS LINE (DO NOT INCLUDE IN README) ---
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-    - main
-
-jobs:
-  generate:
-    permissions: 
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
-    steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark
-          
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-          keep_history: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
