@@ -1,6 +1,8 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=00F7FF&height=220&section=header&text=Subash%20Chand&subtitle=Full%20Stack%20Web%20Developer&fontSize=40&fontAlignY=40&fontColor=0D1117&animation=fadeIn" alt="Header Banner" width="100%" />
+  <a href="https://github.com/Subash-Chand18">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=120&lines=SUBASH+CHAND;Full+Stack+Web+Developer;Laravel+%26+React+Developer;Building+Modern+Web+Apps" alt="Typing Banner" />
+  </a>
 </p>
 
 <!-- ===================== PROFILE OVERVIEW ===================== -->
@@ -14,9 +16,11 @@
              alt="Subash Chand Profile Picture" />
       </td>
       <td align="left" valign="middle">
-        <img src="https://readme-typing-svg.demolab.com?color=FF00FF&size=24&vCenter=true&width=450&lines=Full+Stack+Web+Developer;Laravel+%26+React+Developer;Problem+Solver+%F0%9F%92%BB;Lifelong+Learner+%F0%9F%9A%80" alt="Typing SVG" />
-        <p style="font-size: 15px; color: #8B949E; margin-top: 5px;">
-          Building web applications with structured, clean, and maintainable code.
+        <p style="font-size: 18px; font-weight: bold; color: #FF00FF; margin: 0;">
+          Hi there! 👋 I'm a developer focusing on scalable web architectures.
+        </p>
+        <p style="font-size: 15px; color: #8B949E; margin-top: 5px; max-width: 450px;">
+          Designing high-performance backend systems with elegant, responsive frontend components. Currently building travel and tourism ecosystems.
         </p>
       </td>
     </tr>
